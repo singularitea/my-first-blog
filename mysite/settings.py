@@ -25,7 +25,9 @@ SECRET_KEY = '!&uf0-j+w4t-7-zy^x56-_oq3r)m!f4u*(&)9_tjn4*jex=(f!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'singularitea.pythonanywhere.com'
+]
 
 
 # Application definition
